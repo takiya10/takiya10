@@ -10,7 +10,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takiya10&show_icons=true&theme=dark)
 
 ## 🎨 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
@@ -20,6 +20,4 @@
 [![pamungkas.crypto@gmail.com](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:youremail@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 
-## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takiya10&show_icons=true&theme=dark)
 
