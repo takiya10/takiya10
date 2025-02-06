@@ -17,7 +17,9 @@
 
 ## 📫 Connect with Me
 [![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome)](https://yourwebsite.com)
-[![pamungkas.crypto@gmail.com](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:youremail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:pamungkas.crypto@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 
+## 🌇 GitHub Skyline
+![Skyline](https://github.com/yourusername/skyline/blob/main/2024.svg)
 
