@@ -21,9 +21,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takiya10&layout=compact&theme=dark)
 
 ## 📫 Connect with Me
-[![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:pamungkas.crypto@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome)](https://takiya10.github.io/portfoliopams/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:ngkass.bhadick@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/0xpamungkas)
 
 </div>
 
